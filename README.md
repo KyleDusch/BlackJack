@@ -6,3 +6,7 @@ The genesis of the project was from the first ever course I took on udemy which 
 
 Open source Card files used link:
 https://svg-cards.sourceforge.net/ 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
