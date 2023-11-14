@@ -81,7 +81,7 @@ def deal_player2():
     if player2_score > 21:
         result_text.set("Player 2 Wins!")
 
-
+#addition of the new game button
 def new_game():
     global dealer_card_frame, player_card_frame, dealer_hand, player_hand, player2_hand, result_text
     dealer_card_frame.destroy()
@@ -117,6 +117,7 @@ def play_again():
     shuffle()
     new_game()
 
+#betting system function
 def place_bet():
     global player_balance, player2_balance, result_text
     bet_amount = int(bet_entry.get())
