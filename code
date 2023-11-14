@@ -107,6 +107,7 @@ def new_game():
 def shuffle():
     random.shuffle(deck)
 
+#Creating the play again function while retaining the betting function
 def play_again():
     global player_balance, player2_balance, result_text
     player_balance = 1000
